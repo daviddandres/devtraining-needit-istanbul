@@ -45,7 +45,7 @@ isDateToday: function(strDate){
         <sys_class_name>sys_script_include</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-05-17 10:49:53</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>70a94b994f323200d2a7cab18110c7ef</sys_id>
         <sys_mod_count>2</sys_mod_count>
         <sys_name>NeedItUtils</sys_name>
